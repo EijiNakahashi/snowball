@@ -1,1 +1,3 @@
 NewText !
+Add Add
+日本語
